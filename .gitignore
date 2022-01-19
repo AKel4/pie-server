@@ -1,0 +1,3 @@
+node_modules/
+*.env 
+# we are specifying that we do NOT want these two files to be uploaded to our git repository
